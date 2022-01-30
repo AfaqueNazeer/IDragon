@@ -1,3 +1,7 @@
+![bg](https://user-images.githubusercontent.com/95380277/151717581-d3782139-67f6-483d-93f7-10579fa2c7aa.png)
+[debug.log](https://github.com/AfaqueNazeer/IDragon/files/7966913/debug.log)
+![dino](https://user-images.githubusercontent.com/95380277/151717583-01651c5f-7b7f-4db4-9cf5-ef67ca38e1cf.png)
+![dragon](https://user-images.githubusercontent.com/95380277/151717587-55520ef0-2015-4199-9e7c-9443a6a7707b.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AfaqueNazeer/IDragon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
